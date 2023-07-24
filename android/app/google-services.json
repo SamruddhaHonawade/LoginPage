@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "298892778019",
+    "project_id": "loginf-7fb8f",
+    "storage_bucket": "loginf-7fb8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298892778019:android:bd25cccf019ce23c422f96",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298892778019-rq5undhar2f86m009vh39nu81h3ddplm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkN8H341JvbuLlKO3-jabK58BTJruzw2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298892778019-rq5undhar2f86m009vh39nu81h3ddplm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298892778019-b1k82b8akbj7guqqq9sdutriq9q7q6gj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginpage01"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298892778019:android:d6d87cf5c9e1a647422f96",
+        "android_client_info": {
+          "package_name": "com.example.loginpage01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298892778019-rq5undhar2f86m009vh39nu81h3ddplm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkN8H341JvbuLlKO3-jabK58BTJruzw2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298892778019-rq5undhar2f86m009vh39nu81h3ddplm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298892778019-b1k82b8akbj7guqqq9sdutriq9q7q6gj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginpage01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
